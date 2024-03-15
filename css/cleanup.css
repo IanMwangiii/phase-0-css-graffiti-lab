@@ -1,1 +1,26 @@
-/* write your override styles here */
+/* Existing CSS rules */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Overrides added */
+  body {
+    background-color: #ffffff; /* Override background color */
+  }
+  
+  h1 {
+    font-size: 24px; /* Override font size */
+  }
+  
+  /* Add more overrides as necessary */
+  
